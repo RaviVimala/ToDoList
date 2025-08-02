@@ -1,0 +1,31 @@
+.container{
+    width: 30%;
+    min-height: 50vh;
+    background-color: rgb(196, 208, 255);
+    padding: 10px;
+    border-radius:30px ;
+  }
+.div{
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 5px;
+  }
+
+input{
+    border: none;
+    padding: 5px;
+    font-weight: bold;
+  }
+button{
+    padding: 15px 40px;
+    background: #c22412;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 100px;
+    border: none;
+  }
+li.completed {
+  text-decoration: line-through;
+  background-color: #08dc7d;
+}  
